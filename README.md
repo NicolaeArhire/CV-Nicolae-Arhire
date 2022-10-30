@@ -1,2 +1,1 @@
-# CV-Nicolae-Arhire
-Example of a résumé
+Résumé-Arhire Nicolae
